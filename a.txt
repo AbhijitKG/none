@@ -1,15 +1,5 @@
-git
 abhij
 nre 
 rekrnekln
 r;j;bkerjg;ji
-
-new abhijita
-abhiji
-
-<<<<<<< HEAD
-=======
-rlrnjnrwljkfn
-fwljkfbwkrjbf
-lfnwkjfb
->>>>>>> changed a in next branch
+nljsnflfn
