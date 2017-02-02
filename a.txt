@@ -7,3 +7,9 @@ r;j;bkerjg;ji
 new abhijita
 abhiji
 
+<<<<<<< HEAD
+=======
+rlrnjnrwljkfn
+fwljkfbwkrjbf
+lfnwkjfb
+>>>>>>> changed a in next branch
